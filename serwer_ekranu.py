@@ -85,7 +85,7 @@ if __name__ == '__main__':
 
   local_ip = get_local_ip()
 
-  # Tworzymy ładne okienko sterowania z przyciskiem do wyłączenia
+  # Tworzymy  okienko sterowania z przyciskiem do wyłączenia
   root = tk.Tk()
   root.title('Panel Sterowania Streamem')
   root.geometry('380x220')
