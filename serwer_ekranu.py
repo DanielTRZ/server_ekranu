@@ -24,7 +24,7 @@ def get_local_ip():
 
 HTML_PAGE = """
 <!DOCTYPE html>
-<html>
+<html> 
 <head>
     <title>Stream Ekranu na Zywo</title>
     <style>
