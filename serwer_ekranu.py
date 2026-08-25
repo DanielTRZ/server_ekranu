@@ -70,7 +70,7 @@ def video_feed():
 
 
 def run_server():
-  # Uruchamiamy serwer w tle (wyciszamy też logi flask żeby nie śmieciły)
+  # Uruchamiamy serwer w tle (wyciszamy też logi flask )
   import logging
 
   log = logging.getLogger('werkzeug')
