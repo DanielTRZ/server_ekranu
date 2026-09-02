@@ -10,6 +10,7 @@ from mss import mss
 app = Flask(__name__)
 
 
+
 def get_local_ip():
   s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
   try:
